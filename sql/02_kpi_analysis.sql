@@ -4,12 +4,12 @@
 
 SELECT
   SUM("UnitPrice" * "Quantity") AS gross_sales,
-  SUM("UnitPrice" * "Quantity" * (1 - "Discount")) AS net_sales,
+  SUM("UnitPrice" * "Quantity" * (1 - "Discount"::numeric)) AS net_sales,
   SUM("UnitPrice" * "Quantity" * "Discount") AS total_discount_amount
 FROM northwind."Order Details";
 
 -- KPI 04: Distinct Orders
--- KPI 05: Average Order Values (AOV)
+-- KPI 05: Average Order Value (AOV)
 
 SELECT
   COUNT(DISTINCT o."OrderID") AS distinct_orders,
