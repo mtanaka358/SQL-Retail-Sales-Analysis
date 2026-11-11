@@ -24,7 +24,7 @@ For detailed findings, see [Business Insights](analysis/business-insights.md).
 - Distinct Orders
 - Average Order Value (AOV)
 
-KPI definitions and calculation methods are documented in the [Dashboard Specification](docs/dashboard-specification.md).
+KPI definitions and calculation methods are documented in the [Dashboard Specification](doc/dashboard-specification.md).
 
 ## Tools Used
 
@@ -50,7 +50,7 @@ For additional information, see [Data Documentation](data/README.md) and [Data Q
 
 ### Dashboard Preview
 
-![Northwind Sales Analysis](images/dashboard-preview.png)
+![Northwind Sales Analysis](image/dashboard-preview.png)
 
 ## Key Insights
 
