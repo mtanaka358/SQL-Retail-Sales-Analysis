@@ -1,7 +1,6 @@
 # Data Quality Notes
 
 ## Data Quality Summary
-# Data Quality Notes
 
 | Check | Finding | Limitation |
 |---|---|---|
