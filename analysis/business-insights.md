@@ -1,5 +1,16 @@
 # Business Insights
 
+## KPI Summary
+
+| KPIs | Value  | 
+| ----------- | ------------ | 
+| Gross Sales | 1,354,458.59 |
+| Net Sales | 1,265,793.04 |
+| Total Discount Amount | 88,665.55 |
+| Distinct Orders | 830 |
+| Average Order Value (AOV) | 1,525.05 | 
+
+
 ## Business Questions
 
 ### BQ01: How have monthly sales changed over time?
