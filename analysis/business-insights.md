@@ -3,7 +3,7 @@
 ## KPI Summary
 
 | KPIs | Value  | 
-| ----------- | ------------ | 
+| ----------- | ------------:| 
 | Gross Sales | 1,354,458.59 |
 | Net Sales | 1,265,793.04 |
 | Total Discount Amount | 88,665.55 |
