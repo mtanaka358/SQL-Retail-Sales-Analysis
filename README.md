@@ -46,7 +46,7 @@ For additional information, see [Data Documentation](data/README.md) and [Data Q
 
 ## Dashboard
 
-[View Northwind Sales Dashboard on Tableau Public](https://public.tableau.com/views/NorthwindSalesAnalysis_17943008493170/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Northwind Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/mikiko.tanaka/viz/NorthwindSalesAnalysis_17943008493170/Dashboard1)
 
 ### Dashboard Preview
 
